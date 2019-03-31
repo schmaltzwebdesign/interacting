@@ -1,0 +1,27 @@
+.button-wrap button {
+	background-color: #085896;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 3em;
+	padding-right: 3em;
+	font-size: 1em;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: white;
+}
+.button-wrap button:hover {
+	background-color: #0965AD;
+}
+.button-wrap button:active {
+	background-color: #0A74C7;
+}
+body, .button-wrap button {
+	font-family: 'Open Sans', sans-serif;
+}
+.countingdivA, .countingdivB {
+	padding-bottom: 1em;
+	padding-top: 1em;
+	font-size: 1.2em;
+	font-weight: 700;
+}
